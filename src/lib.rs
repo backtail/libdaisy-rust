@@ -28,7 +28,6 @@ pub mod hid;
 pub mod logger;
 pub mod mpu;
 pub mod prelude;
-pub mod sdmmc;
 pub mod sdram;
 pub mod system;
 
